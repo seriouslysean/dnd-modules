@@ -1,0 +1,19 @@
+{
+  "name": "dnd-modules",
+  "version": "1.0.0",
+  "description": "Collection of my D&D module creations",
+  "main": "README.md",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/seriouslysean/dnd-modules.git"
+  },
+  "author": "Sean Kennedy <sean@codeserious.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/seriouslysean/dnd-modules/issues"
+  },
+  "homepage": "https://github.com/seriouslysean/dnd-modules#readme"
+}
