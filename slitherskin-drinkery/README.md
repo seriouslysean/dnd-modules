@@ -2,8 +2,6 @@
 
 ### An Adventure for four to six 5th-level characters
 
----
-
 ## Background
 
 In the forgotten town of **Slitherskin Hollow**, an ancient secret lurks just beneath the surface. The town’s fame rests solely on the reputation of its brewery, the **Slitherskin Drinkery**, where the thick and venom-laced **Slitherskin** brew is served to daring patrons. However, unknown to most, this brew’s unique flavor comes from a sinister source—a monstrous snake that resides beneath the drinkery, its shed skin used to make the infamous snake-skin mugs, and its venom harvested for the brew.
@@ -58,8 +56,6 @@ The first floor of the drinkery is the **common room**, where patrons gather to 
 
 > The common room of the **Slitherskin Drinkery** is a low-ceilinged, dimly lit space, with thick wooden beams running overhead. The scent of strong ale, sweat, and old wood mingles in the air. A roaring fire crackles in the hearth, casting flickering light over the motley crowd of patrons gathered around battered wooden tables. The walls are plastered with drawings of past **Challenge Champions**, each carefully sketched by Pops himself. Some patrons gather around a large, snake-shaped keg adorned with signs reading, “**Are You Brave Enough? Take the Slitherskin Challenge!**”
 
----
-
 ##### The Slitherskin Challenge
 
 The **Slitherskin Challenge** is the tavern’s main attraction. It consists of drinking several pints of the **Slitherskin Brew**, each progressively more venom-laced than the last. The cost to enter the challenge is 1 gp, a low enough price to lure in travelers. However, once the challenge begins, participants cannot stop until they either win or pass out.
@@ -99,13 +95,9 @@ If the adventurer succeeds in drinking all five pints, the crowd erupts into wil
 
 If the adventurer passes out, two figures in aprons quietly escort them from the room. Pops assures everyone that they’ll be fine by morning, but his words carry a subtle undertone that suggests otherwise.
 
----
-
 #### Pops' Book
 
 Unknown to patrons, Pops keeps a journal in his office, detailing the likenesses of everyone who participated in the **Slitherskin Challenge**. For those who vanish, their faces are sketched and marked with an ominous date.
-
----
 
 #### Additional Content: Pops' Nightly Routine
 
@@ -119,8 +111,6 @@ Pops takes care to keep his dark secret hidden. However, astute adventurers may 
 
 > The air near the basement door carries an unfamiliar scent—faintly acrid and sharp. Scratch marks mar the floor, as if something heavy has been dragged across it multiple times. Pops offers no explanation, quickly changing the subject with a nervous chuckle.
 
----
-
 #### Kitchen
 
 The kitchen is where the tavern’s food is prepared, but it is also where some of the more curious activities may be noticed. The floor is marked with scratches, suggesting that something heavy has been moved frequently through the space.
@@ -130,8 +120,6 @@ The kitchen is where the tavern’s food is prepared, but it is also where some 
 - **Dalmir Bhardain** (Dwarf Chef)
   - **Appearance**: A stocky, middle-aged dwarf with a gruff demeanor. His apron is stained with grease, and his arms are thick from years of working the stove.
   - **Roleplaying Dalmir**: Dalmir is focused solely on cooking and avoids any involvement in the tavern’s other affairs. He brushes off any questions about strange noises or odd occurrences, claiming, “I just make the food. Don’t ask about the rest.”
-
----
 
 #### Key NPCs in the Drinkery
 
@@ -153,8 +141,6 @@ The kitchen is where the tavern’s food is prepared, but it is also where some 
   - **Appearance**: A middle-aged half-elf with long hair tied back and a slight smirk.
   - **Roleplaying Quinn**: Quinn claims to just be passing through, but he is quietly investigating the disappearance of a friend who was last seen in **Slitherskin Hollow**. If pressed, he admits to finding something odd near the tavern—an item belonging to his friend, but no sign of the man himself.
 
----
-
 ### 3. The Brewery
 
 The brewery behind the tavern is where the **Slitherskin Brew** is made. The structure contains several large vats, barrels of aging ale, and supplies for brewing. Despite the lively atmosphere of the tavern, the brewery has an eerie stillness to it, a cold contrast to the rest of the building.
@@ -169,19 +155,13 @@ Behind the brewery is a storage area filled with crates of mugs made from snake 
 
 > A layer of dust covers much of the storage room, but a corner of the floor looks recently disturbed. Crates of wooden mugs are stacked haphazardly, and the air is thick with the musty scent of barley and aged ale. A faint draft slips through the cracks, and upon closer inspection, you notice the shelf along the far wall shifts ever so slightly when pushed.
 
----
-
 #### The Catacombs Beneath the Brewery
 
 Beneath the **Slitherskin Drinkery** lies a series of forgotten catacombs, now home to the **Giant Slitherskin**. The tunnels are narrow and uneven, barely wide enough for the massive snake to move through, and the air is thick with the scent of decay.
 
 > The tunnel grows colder as you descend into the catacombs. Narrow stone passages twist and turn, with damp, uneven walls that bear faint scratch marks. A distant hiss echoes through the dark, followed by an unsettling silence.
 
----
-
 [TODO: IMAGE - MAP OF THE CATACOMBS]
-
----
 
 ##### The Lair of the Giant Slitherskin
 
@@ -203,8 +183,6 @@ If no character has a passive Wisdom (Perception) score of 13 or higher, they no
 
 The adventurers can make a **DC 13 Insight check** to determine if Pops is being deceptive. If successful, they sense that something is wrong. Following the men will lead them to the basement, where the unconscious patron is being prepared to be fed to the **Giant Slitherskin**.
 
----
-
 ### 2. The Creeping Sounds
 
 This event occurs late at night, as the adventurers explore the outskirts of **Slitherskin Hollow**:
@@ -216,8 +194,6 @@ If no character has a passive Wisdom (Perception) score of 14 or higher, they ca
 > The noise seems to come from the direction of the drinkery, somewhere below it. The faint sound of scales scraping against stone becomes unmistakable, like something enormous moving underground.
 
 The adventurers can follow the sounds to the drinkery’s basement. These sounds hint at the presence of the **Giant Slitherskin**, stirring in its underground lair.
-
----
 
 ### 3. The Abandoned Cart
 
@@ -231,8 +207,6 @@ If no character has a passive Wisdom (Perception) score of 12 or higher, the par
 
 A **DC 13 Survival check** allows the adventurers to follow the tracks into the forest, leading them to clues that a traveler was ambushed and dragged toward the catacombs beneath the drinkery to be fed to the **Giant Slitherskin**.
 
----
-
 ### 4. Pops’ Nightly Routine
 
 Pops has a careful routine of feeding the **Giant Slitherskin** at night, taking great care to avoid suspicion. This event can be triggered if the adventurers stay at the **Slitherskin Drinkery** overnight:
@@ -242,8 +216,6 @@ Pops has a careful routine of feeding the **Giant Slitherskin** at night, taking
 A **DC 14 Perception check** allows the adventurers to hear faint hissing from below the tavern or the creaking of the basement door. If they investigate further, they can attempt a **DC 15 Investigation check** to find scratch marks near the basement door, suggesting something large has been dragged repeatedly.
 
 > The smell near the basement door is acrid, like something rotting just beneath the surface. Faint scratches line the floor, and Pops quickly changes the subject if questioned, laughing nervously.
-
----
 
 ### 5. Disturbances in the Night
 
@@ -260,8 +232,6 @@ The GM may roll a d6 to determine the event that occurs:
 | 5            | A scream pierces the night but is quickly silenced. |
 | 6            | An unsettling quiet blankets the area—nothing stirs, not even the wind. |
 
----
-
 ### 6. The Roadside Sign
 
 This event occurs as the adventurers make their way toward **Slitherskin Hollow**:
@@ -273,8 +243,6 @@ If the adventurers inspect the sign closely, they may notice a smaller piece of 
 > “Travelers Beware! Strange Disappearances Reported Near Slitherskin Hollow. Watch the Shadows.”
 
 This sign is meant to lure adventurers toward **Slitherskin Hollow**, where the infamous drinkery and the dark secrets beneath it await.
-
----
 
 ## Treasure
 
@@ -294,8 +262,6 @@ This dagger is crafted from the fangs of the Giant Slitherskin. Its sleek blade 
 
 - **Venom Strike**. Once per day, as a bonus action, you can coat the blade in **slitherskin venom**. The poison remains active for 1 minute or until an attack hits a creature. On a hit, the target must succeed on a DC 13 Constitution saving throw or take 2d8 poison damage and become poisoned for 1 minute.
 
----
-
 ### Slitherskin Cloak
 
 *Armor (cloak), rare (requires attunement)*
@@ -304,8 +270,6 @@ Woven from the shed skin of the Giant Slitherskin, this cloak ripples with a fai
 
 - **Poison Resistance**. While wearing this cloak, you have resistance to poison damage and advantage on saving throws to resist being poisoned.
 
----
-
 ### Slitherskin Fang
 
 *Weapon (dagger), rare (requires attunement)*
@@ -313,8 +277,6 @@ Woven from the shed skin of the Giant Slitherskin, this cloak ripples with a fai
 This curved fang, harvested from the jaw of the Giant Slitherskin, exudes a faint, acrid smell. The fang itself is sharp and jagged, capable of injecting a lethal dose of venom into those it strikes. The **Slitherskin Fang** is a prized weapon among assassins and hunters who rely on poisons.
 
 - **Venomous Strike**. When you hit a creature with this fang, the target must make a DC 13 Constitution saving throw. On a failed save, the target takes 3d4 poison damage and is poisoned for 1 minute. The poison damage decreases by 1d4 at the start of each of the creature's turns until it wears off.
-
----
 
 ### Crystallized Slitherskin Eye
 
@@ -326,8 +288,6 @@ This smooth, cloudy orb resembles the eye of the Giant Slitherskin. When held, t
 
 > **Note**: This item is always in Pops' possession.
 
----
-
 ### Mummified Slitherskin Tongue
 
 *Wondrous item, rare (requires attunement)*
@@ -335,8 +295,6 @@ This smooth, cloudy orb resembles the eye of the Giant Slitherskin. When held, t
 The desiccated tongue of the Giant Slitherskin feels brittle and shriveled, yet when used, it quivers with a strange life of its own. By using this item, one can tap into the ancient connection between serpents and their surroundings, gaining the ability to speak with them.
 
 - **Snake Speak**. Once per day, as an action, you can use the **Mummified Slitherskin Tongue** to comprehend and verbally communicate with snakes for 10 minutes. During this time, snakes can provide information about nearby locations, dangers, or perform small favors for you.
-
----
 
 ### Pouch of Slitherskin Powder
 
@@ -352,8 +310,6 @@ This small pouch contains a glittering powder made from the shed skin of the Gia
   5. The creature falls unconscious for 1d4 rounds (DC 13 Constitution save).
   6. The creature takes 3d6 poison damage (DC 15 Constitution save).
 
----
-
 ## Epilogue
 
 The conclusion of the adventure depends on how the adventurers handled the situation with the **Giant Slitherskin** and the dark secrets of the tavern. Below are two possible outcomes based on their actions.
@@ -365,8 +321,6 @@ If the adventurers spare or fail to uncover the **Giant Slitherskin**, Pops cont
 > As the adventurers leave the village, they pass freshly dug graves on the outskirts of the road, the earth still unsettled. In the distance, the faint hissing of the **Giant Slitherskin** can be heard, a reminder that the darkness lurking beneath the tavern still remains. The once cheerful drinkery now carries an eerie atmosphere, its walls heavy with the weight of unspoken horrors. More adventurers will come, but not all will leave.
 
 Over time, the snake grows too large for the catacombs beneath the tavern. Eventually, it breaks free, bringing ruin to **Slitherskin Hollow**. The town is abandoned, its buildings left to rot, and the slitherskin roams the surrounding area, devouring any living creatures it encounters.
-
----
 
 ### If the Giant Snake Dies
 
